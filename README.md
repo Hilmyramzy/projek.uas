@@ -132,6 +132,13 @@ Menjalankan program python
 ![hilmy8](https://user-images.githubusercontent.com/115677769/211719821-81340f07-b8f9-4f47-974a-a114dc32a448.png)
 ![hilmy9](https://user-images.githubusercontent.com/115677769/211719844-ce32390b-ac91-4c25-b2f7-afa49cd7d611.png)
 ![hilmy10](https://user-images.githubusercontent.com/115677769/211719856-0564325f-7c47-40da-816d-884aa63f4792.png)
+untuk penjelasan lebih lanjut bisa klik link dibawah
+
+https://youtu.be/7i3KAGyHAAo
+
+
+
+
 
 
 
