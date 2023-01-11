@@ -102,6 +102,38 @@ Penjelasan:
 ![Screenshot (130)](https://user-images.githubusercontent.com/115677769/211521996-03febead-8afa-49aa-88e1-a2539d9d53af.png)
 
 
+•	Dari dan impor
+Penjelasan:
+
+o	Sama seperti sebelumnya hanya disini saja sedikit berbeda
+o	Dari sini kita tulis package.modulnya lalu import fungsi(def) tadi
+o	Karena dibagian utama ini kita akan menggunakan atau membuat menu pilihan sintaks
+o	Sementara Benar
+Penjelasan:
+	Kita gunakan print untuk membuat pilihan menunya
+	Lalu kita buat inputan untuk memilih menu nanti ketika program dijalankan
+	(If dan Elif)Kita gunakan karena kita akan membuat cabang pilihan yang banyak
+	Lalu dibawahnya kita tambahkan juga fungsi - fungsi yang sudah kita buat tadi
+	Pada perintah ke 6 kita gunakan break untuk keluar dari program yang kita jalankan
+	(Else)Jika kita tidak memilih salah satu menu tersebut maka akan muncul peringatan "pilih menu yang tersedia diatas"
+
+
+Menjalankan program python
+•	Untuk menjalankan program kita klik : Run > main.py
+•	Pilih Menu Nomor : 1. Tambah
+
+![hilmy1](https://user-images.githubusercontent.com/115677769/211719704-3a50a33e-4248-4c62-ab6e-6460627898c3.png)
+![hilmy2](https://user-images.githubusercontent.com/115677769/211719715-fc2230a0-cf0a-45b6-8bd9-031209f59c17.png)
+![hilmy3](https://user-images.githubusercontent.com/115677769/211719726-aff68870-8963-4a68-8041-43cda8c406c1.png)
+![hilmy4](https://user-images.githubusercontent.com/115677769/211719740-6afc1270-720b-4800-8e97-82c8f89bcf3d.png)
+![hilmy5](https://user-images.githubusercontent.com/115677769/211719753-faae4630-a8db-4daf-8cf7-b5f7bcbfd234.png)
+![hilmy6](https://user-images.githubusercontent.com/115677769/211719781-6435f921-227d-45e5-bbdd-f63df4debeec.png)
+![hilmy7](https://user-images.githubusercontent.com/115677769/211719802-57522b46-9819-4de1-9b69-4a7cb8a71ff2.png)
+![hilmy8](https://user-images.githubusercontent.com/115677769/211719821-81340f07-b8f9-4f47-974a-a114dc32a448.png)
+![hilmy9](https://user-images.githubusercontent.com/115677769/211719844-ce32390b-ac91-4c25-b2f7-afa49cd7d611.png)
+![hilmy10](https://user-images.githubusercontent.com/115677769/211719856-0564325f-7c47-40da-816d-884aa63f4792.png)
+
+
 
 
 
